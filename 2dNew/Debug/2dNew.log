@@ -1,0 +1,22 @@
+﻿  action.cpp
+  base_shape.cpp
+  draw.cpp
+D:\GitRepositories\cpp\2dEditor\2dNew\draw.cpp(5,1): warning C4005: RGB: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\wingdi.h(1856): message : см. предыдущее определение "RGB"
+D:\GitRepositories\cpp\2dEditor\2dNew\draw.cpp(69,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\GitRepositories\cpp\2dEditor\2dNew\draw.cpp(69,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  engine.cpp
+D:\GitRepositories\cpp\2dEditor\2dNew\engine.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitRepositories\cpp\2dEditor\2dNew\engine.cpp(49,10): warning C4101: rect: неиспользованная локальная переменная
+  main.cpp
+D:\GitRepositories\cpp\2dEditor\2dNew\main.cpp(312,15): warning C4101: pen: неиспользованная локальная переменная
+D:\GitRepositories\cpp\2dEditor\2dNew\main.cpp(300,10): warning C4101: hBmp: неиспользованная локальная переменная
+D:\GitRepositories\cpp\2dEditor\2dNew\main.cpp(312,10): warning C4101: pst: неиспользованная локальная переменная
+D:\GitRepositories\cpp\2dEditor\2dNew\main.cpp(301,6): warning C4101: hCmpDC: неиспользованная локальная переменная
+  matrix.cpp
+  node.cpp
+  point.cpp
+  segment.cpp
+  viewport.cpp
+  Создание кода...
+  2dNew.vcxproj -> D:\GitRepositories\cpp\2dEditor\Debug\2dNew.exe

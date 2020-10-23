@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_close в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_exec в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_free в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_open в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ sqlite3_errmsg в функции WinMain
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\GitRepositories\cpp\2dEditor\x64\Debug\2dNew.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
